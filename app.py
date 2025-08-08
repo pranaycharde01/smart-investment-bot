@@ -60,8 +60,8 @@ elif st.session_state.step == 3:
             st.session_state.step = 1
             st.rerun()
     else:
-        invest_min = savings * 0.05
-        invest_max = savings * 0.10
+        invest_min = savings * 0.1
+        invest_max = savings * 0.2
 
         st.chat_message("assistant").success(f"Great! You are saving ₹{savings}/month.")
         st.chat_message("assistant").info(
