@@ -1,2 +1,6 @@
 streamlit
 pandas
+fpdf2
+matplotlib
+yfinance
+reportlab

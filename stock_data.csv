@@ -1,0 +1,11 @@
+Company,Ticker,Price,Monthly_Growth,Risk_Level
+Tata Motors,TATAMOTORS.NS,420,8.2,Medium
+ITC,ITC.NS,250,5.4,Low
+Zomato,ZOMATO.NS,180,-2.1,High
+Infosys,INFY.NS,1500,6,Medium
+Reliance,RELIANCE.NS,2600,7.5,High
+HDFC Bank,HDFCBANK.NS,1600,6.8,Medium
+L&T,LARSEN.NS,2000,5.9,Medium
+Axis Bank,AXISBANK.NS,800,6.2,Medium
+Maruti,MARUTI.NS,850,5.5,Medium
+Power Grid,POWERGRID.NS,250,4.2,Low
